@@ -318,7 +318,6 @@
         ${renderHonors()}
         ${renderSkills()}
         ${renderInterests()}
-        ${renderGuestbook()}
         ${renderFooter()}
       </div>
     `;

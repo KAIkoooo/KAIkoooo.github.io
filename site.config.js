@@ -233,13 +233,6 @@ window.SITE_CONFIG = {
     videos: []
   },
 
-  guestbook: {
-    title: "Guestbook",
-    intro: "Thanks for visiting my homepage. Your message and feedback are welcome.",
-    formEndpoint: "https://formsubmit.co/your-name@example.edu.cn",
-    approved: []
-  },
-
   footer: {
     note: "Updated on September 6, 2026"
   }
